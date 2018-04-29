@@ -1,0 +1,58 @@
+.sektion{
+    margin-top: 4em;
+}
+.sektion-mejoraa{
+    padding-top: 4em;
+    padding-bottom: 2em;
+}
+.sektion-mejora2{
+    padding-top: 2em;
+    padding-bottom: 4em;
+}
+.siz-50{
+    font-size: 50px;
+}
+.user-select-none{
+    user-select: none;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.bg-actions{
+    background: url("../images/bg-image/626.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.vh-90{
+    height: 90vh;
+}
+.testo{
+    text-align:center;
+}
+.testo2{
+    text-align:center;
+}
+.bg-iiii{
+    width: 100%;
+    height: 100%;
+}
+.testo-poyo{
+    font-size: 10px;
+}
+@media (min-width: 576px) {
+
+}
+@media (min-width: 768px) {
+    .testo{
+        text-align:left;
+    }
+    .testo2{
+        text-align:right;
+    }
+}
+@media (min-width: 992px) {
+
+}
+@media (min-width: 1200px) {
+
+}
